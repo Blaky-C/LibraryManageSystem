@@ -1,0 +1,2 @@
+# LibraryManageSystem
+一个基于JavaSwing界面和MySQL的简单图书馆管理系统应用
